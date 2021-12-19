@@ -7,7 +7,7 @@ class config:
     SUPPORT_CHAT_LINK = "https://t.me/c/1230727898/225"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "180563707796-2btehflebgepj8q2sr2hagps93lvdtsk.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "180563707796-2btehflebgepj8q2sr2hagps93lvdtsk.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:

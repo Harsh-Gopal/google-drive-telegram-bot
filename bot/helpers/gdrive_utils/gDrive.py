@@ -144,7 +144,7 @@ class GoogleDrive:
           file_path,
           mimetype=mime_type,
           chunksize=150*1024*1024,
-          resumable=True
+          resumable=False
       )
       filename = os.path.basename(file_path)
       filesize = humanbytes(os.path.getsize(file_path))
